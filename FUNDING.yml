@@ -1,0 +1,5 @@
+# Default "Sponsor" button for every TigerTag-Project repository that has no
+# FUNDING.yml of its own. TigerSystem is a personal, community open-source
+# project — support goes to its maintainer.
+buy_me_a_coffee: benoitl
+custom: ["https://paypal.me/tigersystemio"]
